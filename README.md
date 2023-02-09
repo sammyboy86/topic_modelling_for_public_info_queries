@@ -3,7 +3,7 @@ Process 3 years of civilian queries (100k entries) using topic modeling techniqu
 
 
 
-#Key Objectives:
+# Key Objectives:
 Censor personal information efficiently
 Exploratory analysis oriented to topic modeling
 Extensive analysis using natural language processing models
