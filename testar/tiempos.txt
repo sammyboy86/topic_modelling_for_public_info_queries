@@ -1,0 +1,16 @@
+
+no paralelizado:
+
+Total entradas: 10000
+Total palabras: 474477
+Total memoria: 37774.17 KB
+Tiempo de corrida: 30 min 3.796013355255127 seg
+
+
+paralelizado:
+
+
+Total entradas: 10000
+Total palabras: 474477
+Total memoria: 37774.17 KB
+Tiempo de corrida: 23 min 57.329638957977295 seg
